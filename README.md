@@ -1,0 +1,2 @@
+# KoreanTranslation Depot
+ Korean Translation
